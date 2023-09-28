@@ -1,2 +1,2 @@
-# T20_Match_Cricket_Score_Predictor_App
- 
+# T20-World-Cup-Cricket-Score-Predictor
+This is a Cricket Score Predictor Project
